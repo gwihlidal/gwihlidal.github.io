@@ -1,32 +1,20 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: Graham Wihlidal
 image:
   feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  credit:
+  creditlink:
 comments: false
-modified: 2016-02-01
+modified: 2017-11-26
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+Professional Summary
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+The gaming industry is an incredibly diverse market, and thrives on the premise that the expectations for games increase exponentially, and game developers must in turn match these demands to survive in such a competitive environment. Education and academic achievement is extremely important to me, and in order to remain knowledgeable in all existing and upcoming technologies, study cutting-edge techniques and documentation on a routine basis.
 
-## HPSTR Features:
+Professionalism is vital to the success of any large scale company, and has become a belief that I hold in high regard. I treat everyone equally, and with mutual respect. Conflict resolution is second nature to me, and I always value opinions and constructive feedback. My work output and ethic is a clear representation of my beliefs, and the quality and innovation of my work shows my dedication and passion to this profession.
 
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet animated menu.
-* Background image support.
-* Support for large images to call out your favorite posts.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Syntax highlighting]({{ site.url }}/code-highlighting-post/) stylesheets to make your code examples look snazzy.
+Realistic goals are an important belief of mine, and as such, influence how I evaluate potential tasks. If a goal is unrealistic, I will do my best to strategize overcoming this goal. If the goal cannot be done, it is important to me that I discuss that task, and re-evaluate the common objectives pertaining to the task. I am honest and accurate as to what I can deliver within a certain timeframe, and always deliver the end result that was initially agreed on.
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
-
-[^1]: Example: *domain.com/category-name/post-title*
+My largest strength, and one of the most important beliefs of mine, is that the key to success in this industry is innovation. Game developers stand apart through their creativity and innovation, and as such, influences how I develop software. I constantly try to find better ways to perform particular tasks, and if a feasible idea presents itself, I build a simple prototype to test my ideas, and hopefully discover a unique method of performing a certain task.

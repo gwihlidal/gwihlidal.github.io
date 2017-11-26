@@ -1,0 +1,61 @@
+- experience:
+  role: <b>Senior Rendering Engineer II</b>
+  time: 2016 - Present
+  company: SEED - Electronic Arts Inc, Full-Time
+  details: "TODO"
+- experience:
+  role: <b>Senior Rendering Engineer II</b>
+  time: 2013 - 2016
+  company: Frostbite - Electronic Arts Inc, Full-Time
+  details: "Developing the rendering and low level engine technology, and providing direct features and support, for the following titles:
+  <br/>
+  <ul>
+  <li>Battlefield 4 (PC/360/PS3/XB1/PS4)</li>
+  <li>Need for Speed: Rivals (PC/360/PS3/XB1/PS4)</li>
+  <li>Plants vs Zombies: Garden Warfare</li>
+  <li>Dragon Age: Inquisition (PC/360/PS3/XB1/PS4)</li>
+  <li>(other unannounced titles in development)</li>
+  </ul>"
+- experience:
+  role: <b>Senior Software Engineer</b>
+  time: 2006 - 2013
+  company: BioWare - Electronic Arts Inc, Full-Time
+  details: "In charge of a number of critical systems including multiplayer backends, 3D graphics/shaders, low-level platform optimization (x86,x64,PS3,360), and engine architecture.
+  <br> <br>
+  Worked extensively on the following titles:
+  <br/>
+  <ul>
+  <li>Mass Effect 1 (PC/360)</li>
+  <li>Mass Effect 2 (PC/360/PS3)</li>
+  <li>Mass Effect 3 (PC/360/PS3)</li>
+  <li>Dragon Age: Origins (PC/360/PS3)</li>
+  <li>Dragon Age: Inquisition (PC/360/PS3/XB1/PS4)</li>
+  <li>Battlefield 4 (PC/360/PS3/XB1/PS4)</li>
+  <li>Star Wars: The Old Republic - MMO (PC)</li>
+  </ul>"
+- experience:
+  role: <b>Consultant & Partner</b>
+  time: 2005 - 2006
+  company: CGI Group Inc, Full-Time
+  details: "Developer on the APPRES project for Alberta Government Services. In charge of general development and also the design and implementation of a custom reporting framework and processing/rendering engine.
+  <br> <br>
+  Interacted both directly and indirectly with the client to assess business needs and anticipate required functionality related to reporting.
+  <br> <br>
+  Also served as the configuration manager on the project, and performed numerous tasks like the delivery of integration baselines alongside development work. Was also in charge of keeping developer machines operational and productive, including setting up new machines and source control accounts (Rational ClearCase, ClearQuest, and Requisite Pro).
+  <br> <br>
+  Occasionally coached other developers as required."
+- experience:
+  role: <b>Lead Business Application Developer</b>
+  time: 2004 - 2005
+  company: eWorkflow Biz Inc, Full-Time
+  details: "Lead developer of a workflow automation framework and application using C# .NET, Windows Forms, ASP.NET, SQL Server 2000, Exchange API, and Windows SharePoint Services. The workflow was modeled from the BPML specification (Business Process Modeling Language)."
+- experience:
+  role: <b>Independent Consultant</b>
+  time: 2003 - 2004
+  company: InfoPath Service Assurance Inc, Full-Time
+  details: "TODO"
+- experience:
+  role: <b>Independent Consultant</b>
+  time: 2001 - 2002
+  company: Self-Employed, Full-Time
+  details: "TODO"

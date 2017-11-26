@@ -1,0 +1,36 @@
+- skill:
+  name: C++, C#, Python, Protobuf, Go, SQL, Lua
+  level:
+- skill:
+  name: HLSL, PSSL, GLSL, DXIL, SPIR-V
+  level:
+- skill:
+  name: AMD GCN ISA, SSE, AVX, PPC & X86 Assembly
+  level:
+- skill:
+  name: Direct3D, OpenGL, Mantle, GNM, Vulkan
+  level:
+- skill:
+  name: Shader Optimization, GPU Architecture, GPU Drivers
+  level:
+- skill:
+  name: Xbox 360, Xbox One, PlayStation 3, PlayStation 4, Windows, Linux, MacOS X
+  level:
+- skill:
+  name: Technical Writing, Public Speaking, Architecture, System Design
+  level:
+- skill:
+  name: Object Oriented Programming, Design Patterns, MMO Development, Roadmap Planning, Waterfall, SCRUM, Agile, RUP
+  level:
+- skill:
+  name: Data Oriented Design, Vectorization & SIMD, Assembly, Cache Coherency, Memory Reduction, Streaming, SPU Expert (SHUFB for life!), Data Compression
+  level:
+- skill:
+  name: REST, gRPC, Databases, Docker, NoSQL
+  level:
+- skill:
+  name: Unreal Engine, Frostbite, HeroEngine, BioWare Eclipse
+  level:
+- skill:
+  name: 3D Studio Max, Maya, Photoshop, ZBrush, MudBox, Visual Studio, XCode, LLDB & GDB, Perforce, Git, ClearCase
+  level:
